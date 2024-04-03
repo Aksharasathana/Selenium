@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-01T00:22:14 IST" name="Default suite" finished-at="2024-04-01T00:22:14 IST" duration-ms="139">
+    <groups>
+    </groups>
+    <test started-at="2024-04-01T00:22:14 IST" name="Default test" finished-at="2024-04-01T00:22:14 IST" duration-ms="139">
+      <class name="com.dev.util.MyReport">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:com.dev.util.MyReport@659499f1]" started-at="2024-04-01T00:22:13 IST" name="startReport" finished-at="2024-04-01T00:22:14 IST" duration-ms="719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="setData()[pri:0, instance:com.dev.util.MyReport@659499f1]" started-at="2024-04-01T00:22:14 IST" name="setData" finished-at="2024-04-01T00:22:14 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method is-config="true" signature="testAttributes()[pri:0, instance:com.dev.util.MyReport@659499f1]" started-at="2024-04-01T00:22:14 IST" name="testAttributes" finished-at="2024-04-01T00:22:14 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAttributes -->
+        <test-method signature="myReport()[pri:0, instance:com.dev.util.MyReport@659499f1]" started-at="2024-04-01T00:22:14 IST" name="myReport" finished-at="2024-04-01T00:22:14 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myReport -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.dev.util.MyReport@659499f1]" started-at="2024-04-01T00:22:14 IST" name="endReport" finished-at="2024-04-01T00:22:15 IST" duration-ms="791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.dev.util.MyReport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
